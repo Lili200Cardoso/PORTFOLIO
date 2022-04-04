@@ -1,0 +1,15 @@
+C:\Users\jacks\Documents\Lili\bootCampCarrefour\projetoCarrefour\bin\Debug\net6.0\projetoCarrefour.exe
+C:\Users\jacks\Documents\Lili\bootCampCarrefour\projetoCarrefour\bin\Debug\net6.0\projetoCarrefour.deps.json
+C:\Users\jacks\Documents\Lili\bootCampCarrefour\projetoCarrefour\bin\Debug\net6.0\projetoCarrefour.runtimeconfig.json
+C:\Users\jacks\Documents\Lili\bootCampCarrefour\projetoCarrefour\bin\Debug\net6.0\projetoCarrefour.dll
+C:\Users\jacks\Documents\Lili\bootCampCarrefour\projetoCarrefour\bin\Debug\net6.0\projetoCarrefour.pdb
+C:\Users\jacks\Documents\Lili\bootCampCarrefour\projetoCarrefour\obj\Debug\net6.0\projetoCarrefour.csproj.AssemblyReference.cache
+C:\Users\jacks\Documents\Lili\bootCampCarrefour\projetoCarrefour\obj\Debug\net6.0\projetoCarrefour.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacks\Documents\Lili\bootCampCarrefour\projetoCarrefour\obj\Debug\net6.0\projetoCarrefour.AssemblyInfoInputs.cache
+C:\Users\jacks\Documents\Lili\bootCampCarrefour\projetoCarrefour\obj\Debug\net6.0\projetoCarrefour.AssemblyInfo.cs
+C:\Users\jacks\Documents\Lili\bootCampCarrefour\projetoCarrefour\obj\Debug\net6.0\projetoCarrefour.csproj.CoreCompileInputs.cache
+C:\Users\jacks\Documents\Lili\bootCampCarrefour\projetoCarrefour\obj\Debug\net6.0\projetoCarrefour.dll
+C:\Users\jacks\Documents\Lili\bootCampCarrefour\projetoCarrefour\obj\Debug\net6.0\refint\projetoCarrefour.dll
+C:\Users\jacks\Documents\Lili\bootCampCarrefour\projetoCarrefour\obj\Debug\net6.0\projetoCarrefour.pdb
+C:\Users\jacks\Documents\Lili\bootCampCarrefour\projetoCarrefour\obj\Debug\net6.0\projetoCarrefour.genruntimeconfig.cache
+C:\Users\jacks\Documents\Lili\bootCampCarrefour\projetoCarrefour\obj\Debug\net6.0\ref\projetoCarrefour.dll
